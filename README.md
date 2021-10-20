@@ -1,3 +1,4 @@
+```
 dialog #mydialog
 	h1 dc:title "Sign Up"
 	input schema:email "Email"
@@ -5,9 +6,11 @@ dialog #mydialog
 	input password "Confirm Password"
 	button "Sign Up" .default
 	button "Log In"
+```
 
 ---
 
+```
 [
 	{
 		"element": "dialog",
@@ -35,3 +38,4 @@ dialog #mydialog
 		]
 	}
 ]
+```
